@@ -44,7 +44,7 @@ The hyperparameters I got is shown in below:
 
 |P|I|D|
 |-|-|-|
-|0.15|5|0.00002|
+|0.15|0.00002|5|
 
 ## **4.Simulation**
 The video of my simulation is located in `./video/record.mp4`.(Please ignore the watermark in the video, I used a free software so you know that.)
